@@ -1001,6 +1001,12 @@ O relatório completo está localizado em:
 testes/relatorio-testes.md
 ```
 
+### 📋 Acesso aos testes manuais
+
+O relatório com os resultados dos testes **TM01 até TM23** e dos testes adicionais de robustez **TA01 até TA10** pode ser acessado diretamente pelo GitHub:
+
+[📋 Visualizar relatório de testes — TM01 a TM23](https://github.com/PedroYokada/fatec-dmd-jogo-de-damas/blob/main/testes/relatorio-testes.md)
+
 Ele contém:
 
 ```text
