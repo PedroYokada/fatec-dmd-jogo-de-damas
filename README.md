@@ -8,9 +8,10 @@ O sistema implementa um jogo de damas para dois jogadores, incluindo movimentaç
 
 # Integrantes
 
+- Isabella Felix
 - Lucas Ferreira da Silva
 - Maju
-- Matheus Silva
+- Mateus Nunes do Nascimento
 - Pedro Henrique Leite Yokada
 - Walisson da Cruz Silva
 
