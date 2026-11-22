@@ -10,7 +10,7 @@ O sistema implementa um jogo de damas para dois jogadores, incluindo movimentaç
 
 - Isabella Felix Souza
 - Lucas Ferreira da Silva
-- Maju
+- Maria Júlia Ribeiro de Carvalho
 - Mateus Nunes do Nascimento
 - Pedro Henrique Leite Yokada
 - Walisson da Cruz Silva
