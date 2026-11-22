@@ -8,7 +8,7 @@ O sistema implementa um jogo de damas para dois jogadores, incluindo movimentaç
 
 # Integrantes
 
-- Isabella Felix
+- Isabella Felix Souza
 - Lucas Ferreira da Silva
 - Maju
 - Mateus Nunes do Nascimento
